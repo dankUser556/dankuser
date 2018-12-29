@@ -4,6 +4,9 @@
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
+
+fortune
+
 alias ll='ls alh'
 alias l='ls -CFlh'
 alias woo='fortune'
