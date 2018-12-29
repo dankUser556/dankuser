@@ -1,0 +1,9 @@
+chroot/
+VirtualBox VMs/
+Software/
+Documents/
+.xinitrc
+ROMS/
+
+
+
